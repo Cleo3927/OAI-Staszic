@@ -1,0 +1,129 @@
+---
+title: "Wstęp"
+subtitle: "Olimpiada Sztucznej Inteligencji, organizacja, podstawy AI"
+author: "Jowita Drozdowicz & Marek Skiba"
+format:
+  revealjs: 
+    theme: [default]
+    slide-number: true
+    touch: true
+    scrollable: true
+    smaller: true
+    incremental: true
+    chalkboard: 
+      buttons: false
+---
+
+# Poznajmy się!
+
+## Kim jesteśmy?
+
+:::: {.columns}
+
+::: {.column width="75%" .nonincremental}
+**Marek Skiba**
+
+- Studia: Uniwersytet Warszawski - informatyka, później machine learning
+- Olimpiada Informatyczna i podobne:
+  - zwycięzca XXVI Olimpiady Informatycznej (2018)
+  - złoty medal na CEOI 2019
+  - brązowy medal na IOI 2019
+  - zespół z pierwszym miejscem na AMPPZ 2019 i drugim na CERC 2019 
+- Zainteresowania w Machine Learningu: modele generatywne do zdjęć, wizja komputerowa, optymalizacja modeli na mniejszych urządzeniach
+- Aktualnie pracuję nad rozwojem autonomicznych dronów, przed tym finanse i trading
+:::
+
+::: {.column width="25%"}
+![](images/marek_skiba.webp)
+:::
+::::
+
+## Kim jesteśmy?
+
+:::: {.columns}
+
+::: {.column width="75%" .nonincremental}
+**Jowita Drozdowicz**
+
+- Studia: Uniwersytet Warszawski - informatyka, później machine learning
+- Olimpiada Informatyczna i podobne:
+  - finalistka XXV Olimpiady Informatycznej (2017)
+  - finalistka XXVII Olimpiady Informatycznej (2019 brak finałów)
+  - udział w eliminacjach do reprezentacji IOI (2020)
+- Zainteresowania w Machine Learningu: modele generatywne do zdjęć, personalizacja, wizja komputerowa, bezpieczeństwo AI
+- Aktualnie pracuję nad systemami wieloagentowymi w Snowflake Poland
+:::
+
+::: {.column width="25%"}
+![](images/jowita_drozdowicz.webp)
+:::
+::::
+
+# Troszkę o was
+
+## Rocznik
+- Kto jest z 1 klasy liceum?
+- Kto z 2 klasy?
+- Kto z 3 klasy?
+- Kto z 4 klasy?
+
+## Doświadczenie programistyczne
+- Kto nigdy wcześniej nie programował?
+- Kto programuje krócej niż rok?
+- Kto programuje 1–2 lata?
+- Kto programuje ponad 3 lata?
+
+## Python
+- Kto zna podstawy Pythona (zmienne, pętle, funkcje)?
+- Kto czuje się w Pythonie swobodnie (listy, klasy, moduły, dokumentacja)?
+- Kto używał bibliotek takich jak NumPy lub Pandas?
+- Kto używał narzędzi do ML/AI takich jak scikit-learn, TensorFlow lub PyTorch?
+
+## Doświadczenie z AI / ML
+- Kto korzystał z narzędzi opartych na AI (ChatGPT, Copilot, Midjourney)?
+- Kto trenował własny model ML (np. klasyfikator obrazków, analiza tekstu)?
+- Kto uruchamiał kod z gotowych notebooków (Colab, Kaggle)?
+- Kto już brał udział w Olimpiadzie Sztucznej Inteligencji?
+- Kto brał udział w innych konkursach ML lub AI (np. Kaggle)?
+
+## Wiedza teoretyczna
+- Kto wie, co to jest regresja liniowa i do czego się jej używa?
+- Kto wie, co to jest drzewo decyzyjne?
+- Kto wie, jak działa gradient descent (spadek gradientowy)?
+- Kto wie, czym jest backpropagacja w sieciach neuronowych?
+- Kto wie, czym są dane treningowe i testowe?
+- Kto wie, czym jest overfitting?
+- Kto słyszał o sieciach konwolucyjnych (CNN) lub transformerach?
+
+# Wstęp do AI
+Aby nie powielać pracy zrobionej przez komitet olimpiady, użyjemy [udostępnionych materiałów do nauki](https://github.com/OlimpiadaAI/szkolenia/blob/main/01_wst%C4%99p_do_AI.pdf) do wprowadzenia w tematykę AI.
+
+## Dlaczego warto?
+
+- Zastosowanie matematyki i algorytmiki w praktyce!
+- Przewaga w rekrutacjach akademickich
+- Przygotowanie do kariery naukowej i zawodowej w AI/ML
+- Nagrody i stypendia :)
+- Wyjazdy na międzynarodowe olimpiady
+
+. . .
+
+:::: {.columns}
+::: {.column width="50%"}
+![](images/ioai.jpg)
+**International Olympiad in Artificial Intelligence (IOAI) 2026** (Abu Dhabi, UAE, 2-8 Sierpnia 2026)
+
+:::
+::: {.column width="50%"}
+![](images/iaoi.avif)
+**International Winter AI Olympiad (IAIO) 2026** (Lublana, Słowenia, 23-27 Luty 2026)
+:::
+::::
+
+## Jak będzie wyglądało kółko?
+- Spotkania raz w tygodniu we wtorki o 15:00, około 1.5h
+- Większe i mniejsze zadania do zrobienia w domu
+- Rankingi i nagrody 🔥
+- Konsultacje i pomoc
+
+# Dzięki!
