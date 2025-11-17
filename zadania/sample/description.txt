@@ -1,0 +1,1 @@
+Wyślij dowolny plik niepusty plik testowy (w formacie .txt) na serwer :)
